@@ -69,7 +69,7 @@ https://web.stanford.edu/class/cs224u/2021/slides/cs224u-2021-presenting-part2-h
 
 https://aclrollingreview.org/ethicsreviewertutorial
 
-How to write an okay research paper.
+How to write an okay research paper: https://www.youtube.com/watch?v=qNlwVGxkG7Q
 
 https://medium.com/@vered1986/tips-for-writing-nlp-papers-9c729a2f9e1f
 
