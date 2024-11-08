@@ -1,6 +1,9 @@
-# Writing a System description Paper
+# Writing a System description Paper ([SemEval 2025 Task 11](https://github.com/emotion-analysis-project/SemEval2025-Task11))
 
-In order to be included in our official ranking, you need to write a system description paper. 
+_The content blogpost is based on content that you will find the references as well as feedback received when running a writing tutorial for SemEval2023 Task 12 and SemEval2024 Task 1._
+
+
+In order to be included in our official ranking, you need to write a system description paper.  
 
 Note that you will not have to pay any fees for your paper to get published unless you would like to attend the SemEval workshop, and in this case you will have to check the conference website.
 
@@ -37,80 +40,36 @@ You should start with an introduction followed by related work, data, model desc
 | **Section** | **Points covered** |
 |------- | ------------------------|
 |**Abstract** |Summary of your paper. You can highlight the key takes/results.|
-|**Introduction**| <p> What is the task about? Why is it relevant/important? <p> What is your approach to solve the problem? <p> * What did you find out or observe while participating in the task? <p> The key results? <p> The struggles? <p> Have you released the code/model? (You are highly encouraged to do so.) <p> Add a URL in this case <p> E.g., see these papers: [1](https://arxiv.org/pdf/2404.01490) [2](https://aclanthology.org/2024.semeval-1.254.pdf) and [3](https://arxiv.org/pdf/2404.02570)|
-|------- | ------------------------|
-
-Related Work/ Background
-Summarise the most important details about the task.
-Summarise work that is related to yours (e.g., approaches that inspired you to go with the presented solution).
-Situate your work: 
-Explain how it is new/different.
-What does it build on?
-See some work on our GitHub repository. (Check references.)
-E.g., see https://arxiv.org/pdf/2404.02570 
-Present key details of publicly available resources used 
-System Overview
-Key algorithms and modelling decisions/steps in detail.
-The resources beyond training data (e.g., lexicons, other data, …).
-The maths behind your model and its explanation in plain English
-All the variants of your model
-E.g., https://aclanthology.org/2024.semeval-1.202.pdf and https://aclanthology.org/2024.semeval-1.254.pdf 
-Experimental Setup
-Data splits (train/dev/test) and how they are used.
-E.g., have you used the dev set to train the final model?
-All the details about preprocessing, parameter tuning, … 
-You can add more to the appendix
-External tools libraries used for pre/post-processing
-E.g., https://arxiv.org/pdf/2404.0257, https://aclanthology.org/2024.semeval-1.202.pdf, https://aclanthology.org/2024.semeval-1.254.pdf  
-Results
-Key findings
-How well did your system perform according to the official metrics?
-How does it rank in the competition?
-Analysis beyond the overall scores
-Positive/negative insights.
-Quantitative analysis and ablation studies.
-Error analysis and negative insights from the results
-E.g., Did you notice some patterns in the generated false positives/negatives? 
-Investigate further and report your findings!
-Observations about the data.
-Human evaluation if any
-E.g., https://aclanthology.org/2024.semeval-1.202.pdf
-Conclusion
-Summary of the work and future work
-E.g., see all previous papers.
-Ethical considerations
-Ethical implications of the task/model
-Can your model be misused?
-Any biases?
-Any potential misuses?
-See https://aclrollingreview.org/ethicsreviewertutorial as well the ethics shee for emotion analysis https://arxiv.org/pdf/2109.08256 
-Acknowledgements and Appendix (Optional)
-Acknowledgment
-Anyone that you would like to thank? 
-Any funding to acknowledge?
-Appendix
-Any figures/examples/results that are not crucial to the main points in your paper but may help
+|**Introduction**| <p> What is the task about? Why is it relevant/important? <p> What is your approach to solve the problem? <p>  What did you find out or observe while participating in the task? <p> What are the key results? <p> What are the struggles? <p> Have you released the code/model? (You are highly encouraged to do so.) <p> Add a URL in this case <p> **E.g.,** see these papers: [1](https://arxiv.org/pdf/2404.01490) [2](https://aclanthology.org/2024.semeval-1.254.pdf) and [3](https://arxiv.org/pdf/2404.02570)|
+|**Related Work/Background**| <p> Summarise the most important details about the task. <p> Summarise work that is related to yours (e.g., approaches that inspired you to go with the presented solution). <p> Situate your work: <p>  - Explain how it is new/different.<p>  - What does it build on?<p>  - See some work on our GitHub repository. (Check references.)<p>**E.g.,** see [this paper](https://arxiv.org/pdf/2404.02570) <p> Present key details of publicly available resources used.|
+|**System Overview**|<p>Key algorithms and modelling decisions/steps in detail.<p> The resources beyond training data (e.g., lexicons, other data, …). <p>The maths behind your model and its explanation in plain English <p>All the variants of your model <p>E.g., [1](https://aclanthology.org/2024.semeval-1.202.pdf) and [2](https://aclanthology.org/2024.semeval-1.254.pdf)|
+|**Experimental Setup** |<p>Data splits (train/dev/test) and how they are used. <p>E.g., have you used the dev set to train the final model? <p>All the details about preprocessing, parameter tuning, …  <p>You can add more to the appendix <p>External tools libraries used for pre/post-processing <p**>E.g.,** See [1](https://arxiv.org/pdf/2404.0257), [2](https://aclanthology.org/2024.semeval-1.202.pdf), and [3](https://aclanthology.org/2024.semeval-1.254.pdf). 
+|**Results**|<p>Key findings <p> How well did your system perform according to the official metrics?<p> How does it rank in the competition?<p> Analysis beyond the overall scores<p> Positive/negative insights.<p> Quantitative analysis and ablation studies.<p> Error analysis and negative insights from the results<p> **E.g.,** Did you notice some patterns in the generated false positives/negatives? <p> Investigate further and report your findings!<p> Observations about the data.<p> Human evaluation if any<p> **E.g., ** See [this paper](https://aclanthology.org/2024.semeval-1.202.pdf)
+|**Conclusion**|Summary of the work and future work <p>**E.g.,** see all previous papers.|
+|**Ethical considerations**|<p>Ethical implications of the task/model <p> Can your model be misused? <p> Any potential biases? <p> Any potential misuses? <p> See https://aclrollingreview.org/ethicsreviewertutorial as well [the ethics sheet for emotion analysis](https://arxiv.org/pdf/2109.08256)| 
+|**Acknowledgment(Optional)**|Anyone that you would like to thank? <p> Any funding to acknowledge?|
+|**Appendix**|Any figures/examples/results that are not crucial to the main points in your paper but may help.|
 
 
-Paper Examples
-Examples of good system description papers that we received for a task that we organised last year:
-https://arxiv.org/pdf/2404.01490
-https://arxiv.org/pdf/2404.02570
-https://aclanthology.org/2024.semeval-1.202.pdf
-https://aclanthology.org/2024.semeval-1.254.pdf
+## Examples
+Examples of good system description papers that we received for [SemEval2024 Task 1](https://semantic-textual-relatedness.github.io) that we organised last year: [1](https://arxiv.org/pdf/2404.01490), [2](https://arxiv.org/pdf/2404.02570), [3](https://aclanthology.org/2024.semeval-1.202.pdf), [4](https://aclanthology.org/2024.semeval-1.254.pdf), [5](https://dial.uclouvain.be/pr/boreal/object/boreal%3A288252/datastream/PDF_01/view), [6](https://arxiv.org/pdf/2410.10585).
 
-
+<p>
 Further, you may refer to the papers that received best paper awards at previous SemEval workshops: 
-Best papers at SemEval 2024 https://semeval.github.io/SemEval2024/awards
+<li> Best papers at SemEval 2024: https://semeval.github.io/SemEval2024/awards</li>
+<li> Best papers at SemEval 2023: https://semeval.github.io/SemEval2023/awards</li>
+<li> Best papers at SemEval 2022: https://semeval.github.io/SemEval2022/awards</li>
 
-Best papers at SemEval 2023 https://semeval.github.io/SemEval2023/awards
-Best papers at SemEval 2022: https://semeval.github.io/SemEval2022/awards
-
-Writing References
+## References
 https://semeval.github.io/system-paper-template.html
+
 https://writing.wisc.edu/handbook/assignments/writing-an-abstract-for-your-research-paper/
+
 https://web.stanford.edu/class/cs224u/2021/slides/cs224u-2021-presenting-part2-handout.pdf
+
 https://aclrollingreview.org/ethicsreviewertutorial
+
 How to write an okay research paper.
+
 https://medium.com/@vered1986/tips-for-writing-nlp-papers-9c729a2f9e1f
 
