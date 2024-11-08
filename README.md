@@ -49,16 +49,16 @@ Note that this is an example and you can change this structure depending on what
 |**Experimental Setup** |<p>- Data splits (train/dev/test) and how they are used. <p> &nbsp;&nbsp;&nbsp;&nbsp;**E.g.,** have you used the dev set to train the final model? <p>- All the details about preprocessing, parameter tuning, ... <p>- You can add more to the appendix. <p> - External tools libraries used for pre/post-processing. <p**>E.g.,** See [1](https://arxiv.org/pdf/2404.0257), [2](https://aclanthology.org/2024.semeval-1.202.pdf), and [3](https://aclanthology.org/2024.semeval-1.254.pdf). 
 |**Results**|<p>Key findings <p> - How well did your system perform according to the official metrics?<p> - How does it rank in the competition?<p> - Any analysis beyond the overall scores?<p>  &nbsp;&nbsp;&nbsp;&nbsp;- Positive/negative insight?<p> - Any quantitative analysis and ablation studies.<p> - Any error analysis and negative insights from the results<p>  &nbsp;&nbsp;&nbsp;&nbsp;**E.g.,** Did you notice some patterns in the generated false positives/negatives? <p>  &nbsp;&nbsp;&nbsp;&nbsp;- Investigate further and report your findings!<p> - Observations about the data.<p> - Human evaluation if any.<p> **E.g., ** See [this paper](https://aclanthology.org/2024.semeval-1.202.pdf)|
 |**Conclusion**| - Summary of the work and future work. <p> - **E.g.,** see all previous papers.|
-|**Ethical considerations (Encouraged)**|<p>- Ethical implications of the task/model.<p> - Can your model be misused? If so, how? (Potential misuses?) <p> - Any potential biases? <p> - See https://aclrollingreview.org/ethicsreviewertutorial as well [the ethics sheet for emotion analysis](https://arxiv.org/pdf/2109.08256)| 
+|**Ethical considerations (Encouraged)**|<p>- Ethical implications of the task/model.<p> - Can your model be misused? If so, how? (Potential misuses?) <p> - Any potential biases? <p> - See https://aclrollingreview.org/ethicsreviewertutorial as well [the ethics sheet for emotion analysis](https://arxiv.org/pdf/2109.08256).| 
 |**Acknowledgment (Optional)**|- Anyone you would like to thank? <p> - Any funding to acknowledge?|
 |**Appendix (Optional)**|- Any figures/examples/results that are not crucial to the main points in your paper but may help.|
 
 
 ## Examples
-Examples of good system description papers that we received for [SemEval2024 Task 1](https://semantic-textual-relatedness.github.io) organised last year: [1](https://arxiv.org/pdf/2404.01490), [2](https://arxiv.org/pdf/2404.02570), [3](https://aclanthology.org/2024.semeval-1.202.pdf), [4](https://aclanthology.org/2024.semeval-1.254.pdf), [5](https://dial.uclouvain.be/pr/boreal/object/boreal%3A288252/datastream/PDF_01/view), [6](https://arxiv.org/pdf/2410.10585), and others.
+- Examples of good system description papers that we received for [SemEval2024 Task 1](https://semantic-textual-relatedness.github.io) organised last year: [1](https://arxiv.org/pdf/2404.01490), [2](https://arxiv.org/pdf/2404.02570), [3](https://aclanthology.org/2024.semeval-1.202.pdf), [4](https://aclanthology.org/2024.semeval-1.254.pdf), [5](https://dial.uclouvain.be/pr/boreal/object/boreal%3A288252/datastream/PDF_01/view), [6](https://arxiv.org/pdf/2410.10585), and others.
 
 <p>
-Further, you may refer to the papers that received best paper awards at previous SemEval workshops: 
+- Further, you may refer to the papers that received best paper awards at previous SemEval workshops: 
 <li> Best papers at SemEval 2024: https://semeval.github.io/SemEval2024/awards</li>
 <li> Best papers at SemEval 2023: https://semeval.github.io/SemEval2023/awards</li>
 <li> Best papers at SemEval 2022: https://semeval.github.io/SemEval2022/awards</li>
