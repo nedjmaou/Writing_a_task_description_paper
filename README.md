@@ -57,11 +57,10 @@ Note that this is an example and you can change this structure depending on what
 ## Examples
 - Examples of good system description papers that we received for [SemEval2024 Task 1](https://semantic-textual-relatedness.github.io) organised last year: [1](https://arxiv.org/pdf/2404.01490), [2](https://arxiv.org/pdf/2404.02570), [3](https://aclanthology.org/2024.semeval-1.202.pdf), [4](https://aclanthology.org/2024.semeval-1.254.pdf), [5](https://dial.uclouvain.be/pr/boreal/object/boreal%3A288252/datastream/PDF_01/view), [6](https://arxiv.org/pdf/2410.10585), and others.
 
-<p>
 - Further, you may refer to the papers that received best paper awards at previous SemEval workshops: 
-<li> Best papers at SemEval 2024: https://semeval.github.io/SemEval2024/awards</li>
-<li> Best papers at SemEval 2023: https://semeval.github.io/SemEval2023/awards</li>
-<li> Best papers at SemEval 2022: https://semeval.github.io/SemEval2022/awards</li>
+  - Best papers at SemEval 2024: https://semeval.github.io/SemEval2024/awards</li>
+  - Best papers at SemEval 2023: https://semeval.github.io/SemEval2023/awards</li>
+  - Best papers at SemEval 2022: https://semeval.github.io/SemEval2022/awards</li>
 
 ## References
 - **SemEval Guidelines**: https://semeval.github.io/system-paper-template.html
