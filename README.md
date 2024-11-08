@@ -1,11 +1,11 @@
 # Writing a System description Paper ([SemEval 2025 Task 11](https://github.com/emotion-analysis-project/SemEval2025-Task11))
 
-_The content blogpost is based on content that you will find the references as well as feedback received when running a writing tutorial for SemEval2023 Task 12 and SemEval2024 Task 1._
+- _The content blogpost is based on content that you will find the references as well as feedback received when running a writing tutorial for SemEval2023 Task 12 and SemEval2024 Task 1._
 
 
-In order to be included in our official ranking, you need to write a system description paper.  
+- In order to be included in our official ranking, you need to write a system description paper.  
 
-Note that you will not have to pay any fees for your paper to get published unless you would like to attend the SemEval workshop, and in this case you will have to check the conference website.
+- Note that you will not have to pay any fees for your paper to get published unless you would like to attend the SemEval workshop, and in this case you will have to check the conference website.
 
 
 ## Should I write a paper even if my system did not perform well?
