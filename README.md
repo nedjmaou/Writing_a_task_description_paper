@@ -74,4 +74,6 @@ Note that this is an example and you can change this structure depending on what
 - **How to write an okay research paper** by Sasha Rush: https://www.youtube.com/watch?v=qNlwVGxkG7Q
 
 - **Tips for Writing NLP Papers** by Vered Schwartz: https://medium.com/@vered1986/tips-for-writing-nlp-papers-9c729a2f9e1f
+  
+- **How to Write** ***ACL Papers**  by Nikos Aletras https://github.com/Niko-Group/paper_writing_info
 
