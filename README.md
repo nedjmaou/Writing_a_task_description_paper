@@ -1,4 +1,11 @@
-# Writing a System description Paper for [SemEval 2025 Task 11](https://github.com/emotion-analysis-project/SemEval2025-Task11)
+# Writing a System description Paper 
+
+## Update (09/02/2026)
+
+**You can check the [following slides](https://docs.google.com/presentation/d/1QPy0RNzr5qEX0bmmDh7Op15ChM94KKk1FMjPC29MFjA/edit?usp=sharing).**
+
+**This slide deck has been updated over the years; it will be presented for [SemEval 2026 Task 7](https://github.com/BLEnD-SemEval2026/SemEval-2026-Task-7) and was previously used for [SemEval 2025 Task 11](https://github.com/emotion-analysis-project/SemEval2025-Task11), [SemEval-2024 Task 1](https://semantic-textual-relatedness.github.io), and SemEval 2023 Task 12. 
+Feel free to use it if you find it useful. Please send me an email if you need an editable copy (OusidhoumN [at] cardiff (dot) ac (dot) uk), as I am unable to grant edit access to those who do not contact me directly (to avoid spammers).**
 
 _The content blogpost is based on content that you will find in the references and is also based on feedback received when running paper writing tutorials for SemEval2023 Task 12 and SemEval2024 Task 1._
 
